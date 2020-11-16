@@ -1,0 +1,1 @@
+QMainWindow{background:#ff6f82}QComboBox,QPushButton{border-width:.5px;border-radius:2px;border-color:#d4d4d4;border-style:solid;width:150px;height:25px}QPushButton{color:#eee3e7}QPushButton:hover{background-color:rgba(236,81,127,.5)}QLabel{color:#f69fac;}QProgressBar{text-align:center}QProgressBar::chunk{width:1px;background-color:#f6abb6}QInputDialog{background-color:#ff6f82}
